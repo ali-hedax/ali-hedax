@@ -13,14 +13,14 @@ I build practical software for the automotive and trade businesses I have worked
       <b>Dealership operations platform</b><br>
       From intake to delivery, in full view. Manage tracks every vehicle in a dealership's workshop: assessment and insurance approvals, parts, repair stations, blockers, quality control and handover, with role-based workspaces for each team.<br><br>
       Persian (RTL) · role-based access · two-factor sign-in · full audit trail · installable mobile app<br><br>
-      <b>Status:</b> first module (accident repair) in testing at an Iran Khodro dealership. Built for multi-brand, multi-dealership use.<br>
+      <b>Status:</b> first module (accident repair) in daily use at an Iran Khodro dealership. Built for multi-brand, multi-dealership use.<br>
       <a href="https://managebyhedax.ir">managebyhedax.ir</a> (staff sign-in)
     </td>
     <td width="50%" valign="top">
       <img src="assets/source-logo.png" alt="Source by HEDAX" height="46"><br><br>
       <b>Auto parts commerce and custom sourcing</b><br>
       An online store for available parts connected to a custom sourcing service: requests for any brand, versioned quotations, staff operations and fulfillment in one workflow.<br><br>
-      Persian and English · catalog and search · quotations in IRR and AED · staff MFA · audit history<br><br>
+      Persian and English · catalog and search · quotations in IRR and AED · Hexi, an assistant that answers from the live catalog · staff two-factor sign-in · audit history<br><br>
       <b>Status:</b> pre-launch; the public site is online.<br>
       <a href="https://sourcebyhedax.ir/fa">sourcebyhedax.ir</a>
     </td>
@@ -32,8 +32,22 @@ I build practical software for the automotive and trade businesses I have worked
   &nbsp;
   <img src="assets/manage-mobile.jpg" alt="Manage by HEDAX on a phone" width="22%">
   <br>
-  <sub>Manage by HEDAX: service manager dashboard and the case list on a phone. Screenshots use synthetic demo data.</sub>
+  <sub>Manage by HEDAX: service manager dashboard and the case list on a phone. Synthetic demo data.</sub>
 </p>
+
+<p align="center">
+  <img src="assets/source-storefront.jpg" alt="Source by HEDAX — Persian storefront with the Hexi assistant" width="74%">
+  <br>
+  <sub>Source by HEDAX: the Persian storefront with Hexi, the store assistant.</sub>
+</p>
+
+## Repositories
+
+| Repository | Contents |
+| --- | --- |
+| [manage-dealership-platform](https://github.com/ali-hedax/manage-dealership-platform) | Manage by HEDAX: web app, API and documentation |
+| [source-auto-parts-platform](https://github.com/ali-hedax/source-auto-parts-platform) | Source by HEDAX: storefront, administration, API and workers |
+| [brand-guide-hedax](https://github.com/ali-hedax/brand-guide-hedax) | HEDAX visual and verbal identity |
 
 ## How the products are built
 
@@ -41,6 +55,7 @@ I build practical software for the automotive and trade businesses I have worked
 | --- | --- |
 | Web and apps | Next.js, React, TypeScript; Persian-first right-to-left interfaces |
 | Services | NestJS, PostgreSQL, Redis, background workers |
+| Assistant | Catalog-grounded AI assistant with spend and request limits |
 | Operations | Docker, Caddy, ArvanCloud; automated tests and CI on every change |
 | Security | Role-based access enforced on the server, two-factor sign-in, immutable audit log |
 
