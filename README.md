@@ -22,9 +22,8 @@ Manage tracks each car in a dealership workshop from intake to delivery. Every r
   <img src="assets/manage-mobile-2026-11.jpg" alt="Manage by HEDAX control room on a phone" width="23%">
 </p>
 <p align="center">
-  <img src="assets/manage-case-folder-2026-11.jpg" alt="Manage by HEDAX: vehicle case folder with the six-step guided workflow" width="48%">
-  &nbsp;
-  <img src="assets/manage-login-2026-11.jpg" alt="Manage by HEDAX: staff sign-in page" width="48%">
+  <img src="assets/manage-case-folder-2026-11.jpg" alt="Manage by HEDAX: vehicle case folder with the six-step guided workflow" width="47%">
+  <img src="assets/manage-login-2026-11.jpg" alt="Manage by HEDAX: staff sign-in page" width="47%">
   <br>
   <sub>Control room, vehicle case folder and staff sign-in. Inside screens use the synthetic demo dealership; no real customer data.</sub>
 </p>
