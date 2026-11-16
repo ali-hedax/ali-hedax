@@ -17,14 +17,14 @@
 Manage tracks each car in a dealership workshop from intake to delivery. Every role works in its own workspace, and the service manager sees where work is stuck.
 
 <p align="center">
-  <img src="assets/manage-control-room-2026-11.jpg" alt="Manage by HEDAX: service manager control room with workshop KPIs, a live workshop map and case flow by stage" width="74%">
+  <img src="assets/manage-control-room-2026-11.jpg" alt="Manage by HEDAX: service manager control room with workshop KPIs, a live workshop map and case flow by stage" width="72%">
   &nbsp;
-  <img src="assets/manage-mobile-2026-11.jpg" alt="Manage by HEDAX control room on a phone" width="22%">
+  <img src="assets/manage-mobile-2026-11.jpg" alt="Manage by HEDAX control room on a phone" width="23%">
 </p>
 <p align="center">
-  <img src="assets/manage-case-folder-2026-11.jpg" alt="Manage by HEDAX: vehicle case folder with the six-step guided workflow" width="49%">
+  <img src="assets/manage-case-folder-2026-11.jpg" alt="Manage by HEDAX: vehicle case folder with the six-step guided workflow" width="48%">
   &nbsp;
-  <img src="assets/manage-login-2026-11.jpg" alt="Manage by HEDAX: staff sign-in page" width="49%">
+  <img src="assets/manage-login-2026-11.jpg" alt="Manage by HEDAX: staff sign-in page" width="48%">
   <br>
   <sub>Control room, vehicle case folder and staff sign-in. Inside screens use the synthetic demo dealership; no real customer data.</sub>
 </p>
@@ -51,9 +51,9 @@ Manage tracks each car in a dealership workshop from intake to delivery. Every r
 An online store for parts in stock, joined to a sourcing service for anything that is not: customers ask for any part for any brand and follow the request through quotation and fulfilment.
 
 <p align="center">
-  <img src="assets/source-home-2026-11.jpg" alt="Source by HEDAX: Persian storefront home page" width="74%">
+  <img src="assets/source-home-2026-11.jpg" alt="Source by HEDAX: Persian storefront home page" width="72%">
   &nbsp;
-  <img src="assets/source-mobile-2026-11.jpg" alt="Source by HEDAX on a phone: part search and vehicle finder" width="22%">
+  <img src="assets/source-mobile-2026-11.jpg" alt="Source by HEDAX on a phone: part search and vehicle finder" width="23%">
 </p>
 <p align="center">
   <img src="assets/source-catalog-2026-11.jpg" alt="Source by HEDAX: parts catalog with vehicle, brand and part-type filters" width="74%">
